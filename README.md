@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I have worked on backend development using Flask, MySQL.<br>👯 I’m looking to collaborate on any Python project or any database related work.<br>🤝 I’m looking for help with Mongoose schema  design<br>🌱 I’m currently learning MongoDB and Express.<br><br>
+🔭 I have worked on backend development using Flask, MySQL.<br>👯 I’m looking to collaborate on any Python or Backend Development Projects.<br>🤝 I’m looking for help with MongoDB and Django connection <br>🌱 I’m currently learning Django .<br><br>
 
 
 ## 🌐 Socials:
